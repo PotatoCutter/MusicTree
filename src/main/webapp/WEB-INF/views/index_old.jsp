@@ -22,34 +22,32 @@
 		</div>
 		
 		<div class="searchBox">
-			<input type="text" class="searchInput" />
+			<input type="text" class="searchInput"/>
 			<img src="${contextpath}/static/img/ic_search@2x.png"/>
 		</div>
-	</div>
-	
-	<div style="width: 100%; height: 1px; background-color: #eeeeee;"></div>
+	</div> 
+	<div style="width: 100%; height: 1px; background-color: #eeeeee; "></div>
 	
 	<div class="menu">
 		<ul>
-			<li><span>MusicTree</span>차트</li>
+			<li>MusicTree차트</li>
 			<li>최신음악</li>
-			<li>장르</li>
 			<li>플레이리스트</li>
 			<li>아티스트</li>
 		</ul>
 	</div>
 	
-	<div style="width: 100%; height: 1px; background-color: #eeeeee;"></div>
+	<div style="width: 100%; height: 1px; background-color: #eeeeee; "></div>
 	
 	<div class="content">
 		<div class="MusicBox">
-			<div class="C_title">최신 음악</div>
+			<div class="C_title">최신  음악</div>
 			<div class="SlideBox">
 				<div class="Music_item">
 					<img src="${contextpath}/static/img/MusicCover1@2x.png"/>
 					<div class="MusicInfo">
-						<div class="M_title">12312</div>
-						<div class="Name">12312</div>
+						<div class="M_title">12121</div>
+						<div class="Name">1234</div>
 						<img src="${contextpath}/static/img/ic_play_white@2x.png" class="playBtn"/>
 					</div>
 				</div>
